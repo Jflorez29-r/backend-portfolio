@@ -1,0 +1,101 @@
+﻿id,first_name,last_name,email,phone,country,category,amount,quantity,transaction_date,status,notes
+1,Juan,martinez,juan@yahoo.com,+57 688 488 2440,CHILE,Food,,N/A,18/08/2019,ACTIVE,evblAbkHClEQaPKriXrefSFPLBYtCRGSEKclpem
+2,CARLOS,garcia,not_an_email,(246) 104-2543,ARG,CLOTHING,"8932,6",51.258625315785785,12 Mar 2023,Inactive,blocked account
+3,pedro,GarcÃ­a,null,571945826486,chile,Home,$8596.9,dos,20/04/2024,1,TRpdTXezdNNgyCnTwlCLkqZHwAgl
+4,MarÃ­a,Lopez,,null,,SPORTS,70856,417,05-11-20,active,HIGH VALUE
+5,sofia,Gonzalez,missing@,+57 478 328 2817,ARGENTINA,FOOD,"40355,0",-30,07-04-2020,inactive,first purchase
+6,MARIA,martinez,@nodomain.com,null,mÃ©xico,clothing ,,N/A,17-09-24,,
+7,MarÃ­a,martinez,missing@,577971399399,CL,FOOD,,dos,17-05-22,,VIP customer
+8,Carlos,HERNANDEZ,carlos_hernandez@outlook.com,null,CHILE,Sports,0,72216,27 Nov 2021,PENDING,
+9,SOFIA,Perez,not_an_email,null,Colombia,Home & Garden,26970.96,dos,16/09/2020,INACTIVE,low priority
+10,LAURA,Martinez,not_an_email,+57 908 154 4414,Ch1le,BOOKS,2909078.44,NULL,2019/02/11,pending,first purchase
+11,LUIS,GONZALEZ,null,579371430906,mÃ©xico,ElectrÃ³nics,NULL,dos,2019/09/04,inactive,zPelJpEyBwMrKongkgBNjlzLYBofkljaBoYCKgTzTDywjcWyQu
+12,Carlos,martinez,@nodomain.com,+571610900200,Mexico,FOOD,4691.82 USD,dos,13-06-19,CANCELLED,pending verification
+13,juan,MARTINEZ,,null,ARGENTINA,books,9506740.91,NULL,2022-08-17,  active,blocked account
+14,Juan,PEREZ,missing@,N/A,MEXICO,home,,680,2020/06/01,CANCELLED,first purchase
+15,Pedro,Lopez,N/A,1773338452,colombia,sport,NULL,NULL,2020-10-09,inactivo,
+16,Ana,SANCHEZ,ana.sanchez@hotmail.com,7784217828,colombia,FOOD,5398.14 USD,NULL,19 Oct 2022,inactive,low priority
+17,MARIA,MARTINEZ,,N/A,Col,HOME,NULL,dos,2019-03-29,CANCELLED,duplicate entry
+18,sofia,perez,null,not provided,BRAZIL,FOOD,0,0,20 Oct 2022,inactivo,HIGH VALUE
+19,MarÃ­a,RODRIGUEZ,missing@,3179320310,CHILE,B00ks,0,one,2019/04/18,Pending,VIP customer
+20,diego,Rodriguez,diego.rodriguez@gmail.com,(389) 467-3596,Arg,HOME,7551.13 USD,NULL,06/07/2019,  active,pending verification
+21,Carlos,Rodriguez,carlos_rodriguez@outlook.com,not provided,argentina,Sports,-648.25,N/A,27/08/2020,inactive,refund requested
+22,maria,Sanchez,missing@,,Ch1le,food,668.39 USD,85.30505973845604,2022-09-27,INACTIVE,
+23,Diego,hernandez,,not provided,Arg,BOOKS,65917,N/A,"February 25, 2020",0,first purchase
+24,SOFIA,lÃ³pez,,null,Brasil,SPORTS,0.00,one,2023-01-17,0,blocked account
+25,  pedro  ,PEREZ,not_an_email,N/A,MX,ElectrÃ³nics,NULL,NULL,"December 05, 2019",activo,first purchase
+26,Andres,lÃ³pez,,578358867651,,HOME,87536,92.8051212155946,2023/01/20,PENDING,first purchase
+27,sofia,LOPEZ,null,not provided,COLOMBIA,Electronics,4061.15,NULL,01/06/2024,  active,verify address
+28,diego,GARCIA,@nodomain.com,+57 746 583 4732,MEXICO,sports,17644.76,N/A,07-10-2023,ACTIVE,HIGH VALUE
+29,Laura,Martinez,not_an_email,null,MX,Home,error,,2019/05/10,inactive,duplicate entry
+ID-30,LUIS,LOPEZ,N/A,572166605339,Brasil,Home & Garden,N/A,735,08-10-20,1,low priority
+31,SOFIA,Rodriguez,sofia.rodriguez@outlook.com,not provided,Brasil,ElectrÃ³nics,0,N/A,"October 27, 2020",inactivo,
+32,maria,GarcÃ­a,maria.garcÃ­a@gmail.com,null,Mex.,CLOTHING,N/A,27507,19-09-20,suspended,HIGH VALUE
+33,PEDRO,PEREZ,pedro@gmail.com,2493660313,brazil,Books,error,,03-01-2024,INACTIVE,verify address
+34,  Sofia  ,Lopez,N/A,123,Mex., clothing,41800,NULL,2019/09/07,Inactive,
+35,  Laura  ,GONZALEZ,missing@,+57 490 410 0195,MEXICO,Home & Garden,$9144.35,59894,"December 25, 2024",suspended,verify address
+36,pedro,GONZALEZ,pedro.gonzalez@,573250324141,CHILE,ELECTRONICS,N/A,90808,2024-06-21,active,blocked account
+37,Juan,GarcÃ­a,N/A,,colombia,FOOD ,"34202,08",0,03-04-23,,low priority
+38,Juan,lÃ³pez,juan_lÃ³pez@,+579479654136,Col,books,11607.21,69054,07-23-2021,,HIGH VALUE
+39,DIEGO,perez,@nodomain.com,123,mÃ©xico,sports,,N/A,27/10/2021,1,pending verification
+40,Pedro,Lopez,N/A,123,Brasil,Home,"32350,0",0,2020-03-09,inactive,verify address
+41,Sofia,Perez,missing@,null,mÃ©xico,Books,0.00,,14 Feb 2022,Active,pending verification
+42,ANDRES,PEREZ,andres@,(601) 164-9263,CO,CLOTHING,,0,07-07-24,inactivo,low priority
+43,LAURA,GarcÃ­a,laura_garcÃ­a@gmail.com,+57 526 901 5757,MEXICO,Home & Garden,$6105.91,NULL,11-20-2020,cancelled,verify address
+44,ANDRES,Perez,andres224@outlook.com,N/A,Mex.,food,"38112,7",30707,2024-02-13,activo,duplicate entry
+45,MARIA,SANCHEZ,maria@hotmail.com,123,CHILE,BOOKS,,N/A,02-14-2023,INACTIVE,HIGH VALUE
+46,SOFIA,LOPEZ,@nodomain.com,null,Ch1le,electronics,9225.64 USD,0,2023-07-06,,blocked account
+47,CARLOS,garcia,carlos.garcia@yahoo.com,N/A,BRAZIL,Sports,-1396.89,NULL,2024-11-15,Pending,N/A
+48,Diego,garcia,,123,Ch1le, clothing,N/A,-3,2021/04/20,PENDING,HIGH VALUE
+49,JUAN,LOPEZ,missing@,(980) 017-5892,MX,CLOTHING,1917166.04,2.183735393771886,22 Mar 2021,  active,
+50,Diego,garcia,diego.garcia@yahoo.com,,Brasil,Electronics,19136.48,NULL,05-08-24,,low priority
+51,CARLOS,hernandez,null,not provided,MEXICO,B00ks,27106.23,N/A,27 Dec 2020,CANCELLED,VIP customer
+52,LAURA,LOPEZ,null,+57 867 507 1314,CHILE,sports,0.00,96.55321008846754,27 Jul 2022,PENDING,
+53,PEDRO,LOPEZ,not_an_email,(538) 120-1661,Col,electronics,0.00,70.74596001258736,14/11/2023,ACTIVE,first purchase
+54,Carlos,HERNANDEZ,missing@,N/A,Mexico,BOOKS,"3081,98",0,2021/07/20,ACTIVE,HIGH VALUE
+55,LUIS,PEREZ,luis_perez@,not provided,BR,Sports,-4437.52,one,09-11-22,Pending,HIGH VALUE
+56,LAURA,Sanchez,N/A,+574964570811,mÃ©xico,FOOD ,error,0,23/07/2019,pending,duplicate entry
+57,DIEGO,Martinez,diego726@,123,Chile,B00ks,1708.0 USD,one,"January 19, 2021",CANCELLED,
+58,ana,MARTINEZ,not_an_email,not provided,Ch1le,CLOTHING,NULL,N/A,02-27-2019,0,duplicate entry
+,Diego,MARTINEZ,diego@yahoo.com,+57 273 255 3940,mÃ©xico,Home & Garden,49243.98,dos,2019/07/19,ACTIVE,
+60,  Andres  ,GarcÃ­a,andres_garcÃ­a@,null,MEXICO,sport,0,N/A,2021-08-18,active,
+61,MarÃ­a,perez,,8208643631,Brasil,Books,NULL,NULL,2022-07-11,0,dLVHxYncQTSsJwgSUahHrUXnMtrfuxRJyvUig
+62,Sofia,perez,N/A,null,Argentina,FOOD ,N/A,,01-09-2019,suspended,
+63,Ana,PEREZ,N/A,123,CL,ELECTRONICS,0.00,0,2022/08/11,  active,HIGH VALUE
+64,diego,MARTINEZ,diego.martinez@gmail.com,6153541642,Mex.,HOME,NULL,,12/05/2023,0,PhFUARCqMClkLJVgKYjCHKNDEXKJUBTva
+65,diego,Rodriguez,null,null,,sports,0,-47,02/12/2022,pending,
+66,ana,Rodriguez,ana.rodriguez@gmail.com,+571375899416,Mexico,Food,N/A,18,17 Sep 2019,ACTIVE,N/A
+67,ana,Perez,ana.perez@yahoo.com,573384006407,COLOMBIA,Electronics,N/A,90.65717500408901,21/10/2020,PENDING,pending verification
+68,Carlos,Lopez,carlos_lopez@hotmail.com,123,Chile,Electronics,0,0,03 Jul 2021,cancelled,refund requested
+69,pedro,garcia,N/A,+57 805 867 9999,CO,CLOTHING,"16511,24",0,02/04/2019,ACTIVE,refund requested
+70,maria,LOPEZ,,9020002737,mÃ©xico,books,NULL,0,2020-06-25,active,duplicate entry
+71,pedro,HERNANDEZ,null,+57 821 814 6534,ARG,SPORTS,6198859.8,-50,30-07-21,Inactive,first purchase
+72,Luis,RODRIGUEZ,@nodomain.com,+577418263314,MEXICO,HOME,25526,691,2020-10-06,Pending,iYaehWwd
+73,DIEGO,hernandez,not_an_email,+57 611 173 0477,mÃ©xico,Home & Garden,-3673.24,96956,28 Jan 2019,,VIP customer
+74,ana,Sanchez,ana443@outlook.com,+575937271321,Mexico,books,0,5.723221104158373,03/09/2019,Pending,low priority
+75,MarÃ­a,Gonzalez,not_an_email,1343875431,argentina,ElectrÃ³nics,-316.97,0,21/06/2022,PENDING,N/A
+76,Diego,LOPEZ,not_an_email,,MEXICO,electronics,N/A,20,2021-01-31,cancelled,verify address
+77,Pedro,GarcÃ­a,missing@,123,BRAZIL,ElectrÃ³nics,$3610.3,NULL,05-05-20,PENDING,VIP customer
+78,LAURA,GONZALEZ,N/A,+57 828 872 1755,BR,CLOTHING,-3381.92,one,12-02-23,active,ieGWZGdHKPgmZPNPwkJs
+79,Luis,lÃ³pez,N/A,+57 141 712 4022,brazil,Books,error,56918,2023-10-16,Inactive,mLICuBzCFqHfBdRgTkzfDRIBKntFdWkzUePdDWvtKQnc
+80,Luis,Perez,missing@,(167) 047-4924,ARGENTINA,sports,error,-39,2022-05-15,  active,first purchase
+81,SOFIA,RODRIGUEZ,,,Mex.,Books,0,27677,22-03-21,  active,
+82,Laura,Sanchez,laura@hotmail.com,+578817415821,Argentina,home,0,55.331205426302596,17-03-19,0,VIP customer
+83,JUAN,Rodriguez,not_an_email,N/A,argentina,HOME,$9605.49,dos,10-09-22,,refund requested
+84,MARIA,perez,maria.perez@hotmail.com,+571997216402,ARGENTINA,electronics,,,13-05-19,active,verify address
+85,carlos,Martinez,N/A,null,Chile,BOOKS,,dos,07-04-21,Active,verify address
+86,Diego,lÃ³pez,null,+57 357 741 8939,brazil,Food,30988.31,N/A,2019-12-26,inactive,HIGH VALUE
+87,maria,Rodriguez,,not provided,ARG,books,-3252.1,316,"April 11, 2020",CANCELLED,
+88,LAURA,Sanchez,@nodomain.com,+578979273911,MX,books,-615.63,22137,2024-09-03,1,blocked account
+89,ANA,GONZALEZ,not_an_email,(968) 648-6562,Chile,clothing ,36262,one,2024-10-06,pending,blocked account
+90,ANA,martinez,ana_martinez@gmail.com,null,Mex.,HOME,N/A,N/A,23-08-22,1,VIP customer
+91,MarÃ­a,Hernandez,missing@,null,Mexico,FOOD,"40993,29",dos,01 Jan 2019,INACTIVE,
+92,Laura,Rodriguez,,123,Arg,Books,4986.09 USD,421,"June 02, 2024",suspended,first purchase
+93,diego,garcia,not_an_email,null,BR,CLOTHING,0,NULL,01 Feb 2022,Pending,VIP customer
+94,laura,lÃ³pez,,123,ARG,Electronics,0,dos,01-21-2022,Pending,verify address
+95,CARLOS,SANCHEZ,carlos_sanchez@,not provided,,CLOTHING,6607.51 USD,N/A,20/11/2021,Active,verify address
+96,Luis,hernandez,@nodomain.com,123,chile,,error,one,01-10-2023,cancelled,HIGH VALUE
+97,Diego,garcia,diego.garcia@,null,Chile,Electronics,6490.73 USD,dos,19 Sep 2019,inactive,first purchase
+98,sofia,Sanchez,N/A,+57 623 675 1117,MX,ELECTRONICS,9685.96,0,10-26-2021,inactivo,VIP customer
+99,JUAN,PEREZ,null,,CO,clothing ,4582.37 USD,208,23/02/2022,inactive,low priority
+100,maria,RODRIGUEZ,@nodomain.com,null,chile,Home,3335.4 USD,-22,"October 07, 2022",ACTIVE,blocked account

@@ -1,0 +1,5 @@
+# Core Dependencies
+psycopg2-binary==2.9.9
+
+# Testing
+pytest==8.2.2
