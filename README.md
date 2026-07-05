@@ -76,6 +76,6 @@ pytest
 ## 📬 Contacto y Redes
 Si estás interesado en colaborar conmigo en algún proyecto freelance, desarrollo backend o administración de base de datos, puedes contactarme en:
 
--   **LinkedIn**: [Tu Nombre](https://www.linkedin.com/in/tu-usuario/)
--   **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
--   **Email**: tu.email@example.com
+-   **LinkedIn**: www.linkedin.com/in/rafael-junior-florez-rivera-41a87a27b
+-   **GitHub**:https://github.com/Jflorez29-r
+-   **Email**: juniorflorezrivera3@gmail.com
