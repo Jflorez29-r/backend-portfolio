@@ -76,7 +76,6 @@ Para correr las pruebas de forma local en tu máquina virtual activa:
 # Ejecuta todos los tests de todos los proyectos de forma simultánea
 pytest
 ```
-
 ---
 
 ## 📬 Contacto y Redes
