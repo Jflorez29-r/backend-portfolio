@@ -5,10 +5,10 @@ Este repositorio reúne una colección de proyectos prácticos enfocados en el d
 ---
 
 ## 🛠️ Stack Tecnológico Global
-- **Lenguaje**: Python 3.12+ (con fuerte tipado estático `typing`)
-- **Bases de Datos**: PostgreSQL, SQLite (SQL nativo DDL/DML)
-- **Framework de Pruebas**: Pytest
-- **Herramientas de Integración**: psycopg2, GitHub Actions (CI/CD)
+- **Lenguajes y Frameworks**: Python 3.12+ (tipado estático), PHP 8.5 (Laravel 13), React 19 (Vite, Tailwind CSS v4)
+- **Bases de Datos**: PostgreSQL, SQLite (SQL nativo, transacciones ACID, indexación)
+- **Frameworks de Pruebas**: Pytest, PHPUnit
+- **Herramientas de Integración y Entorno**: psycopg2, GitHub Actions (CI/CD), Docker / Docker Compose
 
 ---
 
@@ -31,6 +31,12 @@ Diseño lógico y físico de una base de datos relacional orientada al rendimien
 *   **Habilidades Demostradas**: Modelado relacional, agregaciones y uniones complejas en SQL, tuning de base de datos (`EXPLAIN ANALYZE`), transacciones y manejo seguro de variables de entorno.
 *   **Valor Freelance**: Muestra dominio avanzado en bases de datos empresariales, optimización de queries lentas para reducir costos de infraestructura y consistencia de datos críticos.
 *   **[Ir al Proyecto ➔](./03-biblioteca-db-postgres/)**
+
+### [4. Caso de Estudio: Sistema de Trazabilidad Financiera y Operativa - SITOC](./04-arquitectura-trazabilidad-telecom/)
+Caso de estudio técnico y arquitectura modular/desacoplada (Laravel 13 + React 19 + Docker) para un sistema empresarial real de telecomunicaciones que conecta hitos físicos con cobros.
+*   **Habilidades Demostradas**: Diseño arquitectónico desacoplado (Domain-Driven Design), Monolito Modular, autocarga dinámica de rutas en Laravel, contenedorización segura con Docker, reglas de negocio transaccionales complejas.
+*   **Valor Freelance**: Demuestra capacidad para estructurar, securizar (OWASP) y desplegar sistemas SaaS robustos que gestionan flujos de facturación complejos y previenen lucro cesante.
+*   **[Ir al Proyecto ➔](./04-arquitectura-trazabilidad-telecom/)**
 
 ---
 
